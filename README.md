@@ -14,6 +14,7 @@
 hoppingrover.slxを起動することでSimscapeの画面が開く．
 plot_velocity.mでローバーの速度の時間変化をプロットすることができる．
 10秒後の速度がコマンドラインに表示される
+:zap:
 
 ## Reference
 https://jp.mathworks.com/help/sm/ug/model-a-rolling-wheel.html
